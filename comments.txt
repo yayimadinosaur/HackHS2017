@@ -1,0 +1,4 @@
+in the walk project, if.pdf, ex01 is unclear on what the secret word should be.
+I was confused if we were supposed to use a word bank or create a 26 5 letter word bank.
+If it's the latter, it would be a terrible game since it'll almost be impossible to solve.
+I think ex01 needs to put in clues for the words.
