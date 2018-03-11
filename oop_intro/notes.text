@@ -1,0 +1,145 @@
+Goals section
+-----------------------
+
+The last paragraph on page 4 of the pdf mentions videos in ft_arena and ft_boardgame. I could not find them.
+
+-----------------------
+ex00
+------------------------
+Issue:
+
+Cannot name classes as asked in pdf for python3. The words class and the character "." are bad practice in the python3 language. The word class is a keyword in python3 and using it breaks the python compiler.
+
+Suggested Fix:
+
+Change first.class to first_class
+
+Issue:
+"Instanciate" is spelled wrong
+
+Suggested Fix:
+"Instantiate"
+
+------------------------
+ex01
+------------------------
+Issues:
+
+Cannot name classes as asked in pdf for python3. The words class and the character "." are bad practice in the python3 language. The word class is a keyword in python3 and using it breaks the python compiler.
+
+Suggested Fix(es):
+
+Change first.class to first_class
+Change second.class to second_class
+
+Issue: Hint - Google class inheritance or check ft_arena or ft_boardgame tutorial videos
+
+Suggested Fix:
+
+Google class inheritance or check intra projects - ft_arena or ft_boardgame tutorial videos
+
+Issue:
+"Instanciate" is spelled wrong
+
+Suggested Fix:
+"Instantiate"
+
+------------------------
+ex02
+------------------------
+Issues:
+
+Cannot name classes as asked in pdf for python3. The words class and the character "." are bad practice in the python3 language. The word class is a keyword in python3 and using it breaks the python compiler.
+
+Suggested Fix(es):
+
+Change first.class to first_class
+Change second.class to second_class
+
+Issue:
+"Instanciate" is spelled wrong
+
+Suggested Fix:
+"Instantiate"
+
+Issue:
+"You now need your second class to take a parameter "name" (which will be your login name) and pass it into the first class which will display "Hello ".
+
+Suggested Fix:
+"You now need your second class to take a parameter "name" (which will be your login name) and pass it into the first class which will display "Hello $name".
+
+------------------------
+ex03
+------------------------
+Issues:
+
+Cannot name classes as asked in pdf for python3. The words class and the character "." are bad practice in the python3 language. The word class is a keyword in python3 and using it breaks the python compiler.
+
+Suggested Fix(es):
+
+Change first.class to first_class
+Change second.class to second_class
+
+Issue:
+"Instanciate" is spelled wrong
+
+Suggested Fix:
+"Instantiate"
+
+Issue:
+page 9. "When the method is call put some sort of output for identification".
+
+Suggested Fix:
+"When the method is called, print message "Method Hello in First_Class is called\nHello $username\n"
+
+------------------------
+ex04
+------------------------
+
+Issues:
+
+Cannot name classes as asked in pdf for python3. The words class and the character "." are bad practice in the python3 language. The word class is a keyword in python3 and using it breaks the python compiler.
+
+Suggested Fix(es):
+
+Change first.class to first_class
+Change second.class to second_class
+
+Issue:
+"Instanciate" is spelled wrong
+
+Suggested Fix:
+"Instantiate"
+
+Issue:
+"You now need to create a method inside your second class called number which will randomly generate a number from 1 to 6."
+
+Suggested Fix:
+"You now need to create a method inside your second class called number which will randomly generate a number from 1 to 6, inclusively."
+
+Issue:
+"It than will pass it to Hello method in first class which will print out "Hello , your number is ".
+
+Suggested Fix:
+""It then will pass the number to the Hello method in first class, which will print out "Hello $user, your number is $number".
+
+------------------------
+ex05
+------------------------
+
+Issues:
+
+Cannot name classes as asked in pdf for python3. The words class and the character "." are bad practice in the python3 language. The word class is a keyword in python3 and using it breaks the python compiler.
+
+Suggested Fix(es):
+
+Change first.class to first_class
+Change second.class to second_class
+
+Issue:
+"Instanciate" is spelled wrong
+
+Suggested Fix:
+"Instantiate"
+
+------------------------
