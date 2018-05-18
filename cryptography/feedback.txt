@@ -1,0 +1,11 @@
+rot21.py
+all the exercises are named Excercise 00, is that correct?
+
+bruteforce.py
+how would one know that the string has been decoded? other than it looks right?
+recommendation: show all 26 rots, regardless of whatever positive rot-n encoding
+
+wingdings.py
+
+vignere.py
+vignere is spelled incorrectly. it should be vigenere
