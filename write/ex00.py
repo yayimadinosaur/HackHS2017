@@ -34,6 +34,10 @@ def main():
             line2 += c
     print(line1_new)
     print(line2)
+    if line1.count('(') == line1.count(')'):
+        print ("Balanced? True")
+    else:
+        print ("Balanced? False")
 
 if __name__ == "__main__":
     main()
